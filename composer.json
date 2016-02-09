@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Scraper\\": "src/"
+    }
+  },
+  "require": {
+    "gregwar/rst": "^1.0",
+    "zendframework/zend-code": "~3.0",
+    "riimu/kit-phpencoder": "~2.1"
+  }
+}
